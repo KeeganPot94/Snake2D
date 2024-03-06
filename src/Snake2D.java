@@ -80,7 +80,6 @@ public class Snake2D extends JPanel implements ActionListener, KeyListener {
          * g.drawLine(0, i * tileSize, boardWidth, i * tileSize);
          * g.setColor(Color.white);
          * }
-         * 
          */
 
         // food

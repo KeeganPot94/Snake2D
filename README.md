@@ -1,18 +1,13 @@
-## Getting Started
+Snake 2D
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Description:
+A simple 2D Snake game coded in Java.
 
-## Folder Structure
+What I Learned:
+- The use of classes to divide the game window into a grid and control movement within.
 
-The workspace contains two folders by default, where:
+Future Improvements:
+- Introduce images or animations instead of fill3DRect().
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+References:
+- Original tutorial available at: https://www.youtube.com/watch?v=Y62MJny9LHg [Accessed: 4 March 2024]
